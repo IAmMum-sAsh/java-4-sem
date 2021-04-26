@@ -9,11 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.mirea</groupId>
-	<artifactId>pr11</artifactId>
+	<artifactId>pr12</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
-	<name>pr11</name>
-	<description>pr11</description>
+	<name>pr12</name>
+	<description>pr12</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
