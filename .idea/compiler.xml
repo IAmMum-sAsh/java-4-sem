@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pr13" />
+        <module name="pr14" />
+        <module name="practice12" />
+        <module name="pr15" />
+        <module name="pr16" />
+        <module name="pr10" />
+        <module name="pr17 (1)" />
+        <module name="pr11" />
+        <module name="pr17" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

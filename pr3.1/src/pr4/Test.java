@@ -3,7 +3,7 @@ package pr4;
 public class Test {
 
     public static void main(String[] args){
-        MyExecutorService MyService = new MyExecutorService(2);
+        MyExecutorService MyService = new MyExecutorService(1);
         MyService.submit(() -> {
             try {
                 Thread.sleep(200);
